@@ -1,6 +1,8 @@
 # Deprecation Notice
 
-*Note:* This tool is no longer being maintained. Please use the [Fabrication-Toolkit](https://github.com/bennymeg/Fabrication-Toolkit) plugin instead. It can be installed using the official plugin manager, and it's much easier to use, and it's what I use now.
+## **Note:** This tool is no longer maintained. Please use the [Fabrication-Toolkit](https://github.com/bennymeg/Fabrication-Toolkit) plugin instead. It can be installed using the official plugin manager, and it's much easier to use, and it's what I use now.
+
+---
 
 # JLCKicadTools
 
